@@ -1,0 +1,4 @@
+Model: ResNet18 Fine-Tuned
+Classes: ['NORMAL', 'PNEUMONIA']
+Image size: 224
+Test accuracy: 0.9766
